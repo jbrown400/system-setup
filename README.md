@@ -22,6 +22,7 @@ Powerline fonts
 ZSH sytax highlighting
 TMUX
 - TMUX Config
+Symlinks between configuration files
 Android Studio
 Android SDK
 ADB
